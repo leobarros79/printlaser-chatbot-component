@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@orahub.oraclecorp.com/adao/ateam-dev-bots-base"
+    "url": "https://github.com/leobarros79/printlaser-chatbot-component"
   },
   "keywords": [
     "oracle",
@@ -42,5 +42,4 @@
     "underscore": "^1.8.3",
     "xml2js": "^0.4.19"
   }
-
 }
